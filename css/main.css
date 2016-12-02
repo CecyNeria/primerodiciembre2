@@ -84,17 +84,19 @@ h2{
 }
 
 .caja:first-child {
-	margin-left: 0px;
+	margin-left: 10px;
 }
 
 .caja:last-child {
-	margin-right: 0px;
+	margin-right: 10px;
 }
 
 .caja img{
 	width: 100%;
 	background-color: peru;
 }
+
+
 
 /* FOOTER */
 .footer-class{
@@ -105,3 +107,8 @@ h2{
 	text-align: center;
 	padding-top: 25px;
 }
+
+.clase-rojo{
+	background-color: red!important; 
+}
+
